@@ -1,4 +1,10 @@
 # USBasp - USB programmer for Atmel AVR controllers
-USBasp is a USB in-circuit programmer for Atmel AVR controllers. It simply consists of an ATMega88 or an ATMega8 and a couple of passive components. The programmer uses a firmware-only USB driver, no special USB controller is needed.
-Thomas Fischl
-https://www.fischl.de/usbasp/
+The above programmer is from the website https://www.fischl.de/usbasp/
+Modeled and redesigned.
+There are some tips about this design:
+Internal and external voltage separator section is considered.
+A logic 5V output is provided.
+A 3.3V output is also provided for low power micros.
+And a 500 mA fuse is placed in this circuit to prevent short circuit and damage to the usb port.
+The board is designed in two layers.
+Be sure to use version 7 of kicad software to view the schematic and PCB map.
