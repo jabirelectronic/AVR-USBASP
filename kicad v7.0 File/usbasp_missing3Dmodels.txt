@@ -1,0 +1,35 @@
+### Missing 3D models - created on 2023-02-25 13:29
+### Printed by checking_3D_models plugin
+Board file: /home/hamed/Documents/electronic project/usbasp/usbasp/usbasp.kicad_pcb
+3D missing models written to:
+/home/hamed/Documents/electronic project/usbasp/usbasp/usbasp_missing3Dmodels.txt
+-------
+('R7', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl')
+('C2', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl')
+('PRG', '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0805_2012Metric.wrl')
+('V-target', ':KICAD7_3DMODEL_DIR:Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step')
+('R3', '${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl')
+('F1', '${KICAD6_3DMODEL_DIR}/Fuse.3dshapes/Fuse_0805_2012Metric.wrl')
+('R6', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl')
+('DZ2', '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_MiniMELF.wrl')
+('+5V', ':KICAD7_3DMODEL_DIR:Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x05_P2.54mm_Vertical.wrl')
+('C7', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl')
+('PWR', '${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_0805_2012Metric.wrl')
+('DZ1', '${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_MiniMELF.wrl')
+('R5', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl')
+('C1', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl')
+('C6', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl')
+('USB-A-MALE', '/home/hamed/Documents/electronic project/usbasp/USBASP/3D file /User Library-USB-A-1.STEP')
+('U1', '${KICAD6_3DMODEL_DIR}/Package_QFP.3dshapes/TQFP-32_7x7mm_P0.8mm.wrl')
+('R4', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl')
+('Slow', ':KICAD7_3DMODEL_DIR:Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step')
+('R1', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl')
+('CRYSTAL', '${KICAD6_3DMODEL_DIR}/Crystal.3dshapes/Crystal_HC49-U_Vertical.wrl')
+('C4', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl')
+('R2', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl')
+('C3', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl')
+('U2', '${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-223.wrl')
+('C5', '${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_4x5.4.wrl')
+-------
+NUM of 3D missing models:26
+checked extensions ['.stp', '.step', '.stpZ']
